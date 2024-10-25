@@ -1,0 +1,34 @@
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+body{
+    background-color: black;
+    
+}
+#alignment{
+    text-align: center;
+}
+.textcolor{
+    color: aqua;
+}
+h4{
+    text-align: center;
+    border:solid white;
+    background-color: rgb(39, 67, 92);
+    margin: 100px;
+}
+.distance{
+    display:flex;
+   
+   
+   scroll-padding-inline-end: 100px;
+   margin-inline-end: 100px;
+   margin-inline-start: 100px;
+justify-content: space-between;
+
+}
+a{
+    margin-left:100px ;
+    
+}
